@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on XAI at TU Berlin.
+- 🔭 I’m currently working on XAI with Grégoire Montavon at TU Berlin.
 - 🌱 I’m currently learning TikZ.
 - ⚡ I’m working at Scantist on performance optimization.
 
