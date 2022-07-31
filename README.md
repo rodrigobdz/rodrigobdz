@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on evaluating Layer-Wise Relevance Propagation explanations of Deep Neural Network decisions using quantitative metrics at TU Berlin.
+- 🌱 I’m currently learning TikZ.
+- ⚡ I’m working at Scantist on process automation and performance optimization.
+
+![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigobdz&show_icons=true&count_private=true&theme=vue)
+
+[![Rodrigo's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigobdz&hide=jupyter%20notebook&layout=compact)](https://github.com/rodrigobdz)
+
 <!--
 **rodrigobdz/rodrigobdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
