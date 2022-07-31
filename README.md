@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on evaluating Layer-Wise Relevance Propagation explanations of Deep Neural Network decisions using quantitative metrics at TU Berlin.
+- 🔭 I’m currently working on XAI at TU Berlin.
 - 🌱 I’m currently learning TikZ.
-- ⚡ I’m working at Scantist on process automation and performance optimization.
+- ⚡ I’m working at Scantist on performance optimization.
 
 ![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigobdz&show_icons=true&count_private=true&theme=vue)
 
