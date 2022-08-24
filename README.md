@@ -4,8 +4,6 @@
 - 🌱 I’m currently learning TikZ.
 - ⚡ I’m working at Scantist on performance optimization.
 
-![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigobdz&show_icons=true&count_private=true&theme=vue&disable_animations=true)
-
 [![Rodrigo's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigobdz&hide=jupyter%20notebook,html&layout=compact&langs_count=6)](https://github.com/rodrigobdz)
 
 <!--
