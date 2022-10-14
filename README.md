@@ -6,6 +6,7 @@
 Find me on:
 
 - 💻 [PyPI](https://pypi.org/user/rodrigobdz/), [npm](https://www.npmjs.com/~rodrigobdz), [Docker Hub](https://hub.docker.com/u/rodrigobdz)
+- ✍🏼 [Zenodo](https://zenodo.org/search?page=1&size=20&q=%22Rodrigo%20Bermúdez%20Schettino%22)
 - ✍🏼 [ORCiD](https://orcid.org/0000-0003-1610-6195)
 - 👔 [LinkedIn](https://www.linkedin.com/in/rodrigobdz/)
 - 🎧 [Spotify](https://open.spotify.com/episode/7dmQR5vfDuHRv36ayCvzQ1)
