@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m working at Scantist on performance optimization and robustness.
+- 🔭 I’m working at Scantist on streamlining processes mostly using DevSecOps pipelines.
 - 🌱 I’m currently learning languages.
 
 Find me on:
