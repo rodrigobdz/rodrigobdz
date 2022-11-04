@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m working at Scantist on streamlining processes mostly by architecting DevSecOps pipelines.
+- 🔭 I help people save time and ship secure code by architecting DevSecOps pipelines.
+- 🤓 I'm into ML.
 - 🌱 I’m currently learning languages.
 
 Find me on:
