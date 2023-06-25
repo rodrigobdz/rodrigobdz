@@ -3,6 +3,17 @@
 - 🔭 I'm a Computer Scientist specializing in enabling human-centered AI research via innovative Engineering.
 - 🌱 I'm into plants and natural languages.
 
+💼 Experience:
+- [CERN openlab](https://openlab.cern/) Summer Student, Switzerland
+- Principal Software Engineer, [Cybersecurity Research Spin-Off](https://scantist.com), Singapore
+- IT Consultant, Berlin
+
+📚 Education:
+- 🎓 M.Sc. in Computer Science (CogSys track), Technische Universität Berlin, Germany
+- Exchange Student, École polytechnique fédérale de Lausanne (EPFL), Switzerland
+  - Awards: Swiss-European Mobility Programme Scholarship
+- 🎓 B.Sc. in Computer Science, Technische Universität Berlin, Germany
+
 Find me on:
 
 - 💻 [PyPI](https://pypi.org/user/rodrigobdz/), [npm](https://www.npmjs.com/~rodrigobdz), [Docker Hub](https://hub.docker.com/u/rodrigobdz)
