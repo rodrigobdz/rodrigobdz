@@ -1,8 +1,7 @@
-### Hi there 👋
+### Welcome 👋
 
-- 🔭 I help people save time and ship secure code by architecting DevSecOps pipelines.
-- 🤓 I'm into ML.
-- 🌱 I’m currently learning languages.
+- 🔭 I'm a Computer Scientist specializing in enabling human-centered AI research via innovative Engineering.
+- 🌱 I'm into plants and natural languages.
 
 Find me on:
 
