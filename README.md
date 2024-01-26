@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-- 🔭 I'm a Computer Scientist specializing in enabling human-centered AI research via Engineering.
+- 🔭 I'm a Computer Scientist specializing in enabling human-centered AI research.
 - 🌱 I'm into plants and natural languages.
 
 💼 Experience:
