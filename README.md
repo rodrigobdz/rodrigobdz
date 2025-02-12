@@ -4,7 +4,7 @@
 - 🌱 I'm into plants, mostly aeroids and hoyas, and natural languages.
 
 💼 Experience:
-- DevOps Engineer @ [Center for Humans & Machines](https://www.mpib-berlin.mpg.de/chm), Max Planck Institute for Human Development, Germany
+- Head of Research IT @ [Center for Humans & Machines](https://www.mpib-berlin.mpg.de/chm), Max Planck Institute for Human Development, Germany
 - [CERN openlab](https://openlab.cern/) Summer Student, Switzerland
 - Principal Software Engineer, [Cybersecurity Research Spin-Off](https://scantist.com), Singapore
 - IT Consultant, Berlin
